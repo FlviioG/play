@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.flavio.cardsgame",
+      "sha256_cert_fingerprints": [
+        "31:C8:C3:E6:53:41:D6:76:A9:DE:D9:57:34:C7:EA:98:AA:0A:ED:22:1B:36:A4:D7:6F:55:8A:C6:98:B5:B9:DB"
+      ]
+    }
+  }
+]
